@@ -1,0 +1,31 @@
+{
+  "name": "jscs-preset-npm",
+  "version": "1.0.0",
+  "description": "Sharable jscs config for npm projects",
+  "main": "jscs.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wakuworks/jscs-preset-npm.git"
+  },
+  "author": {
+    "name": "2no",
+    "email": "kazunori.ninomiya@gmail.com",
+    "url": "http://www.wakuworks.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wakuworks/jscs-preset-npm/issues"
+  },
+  "homepage": "https://github.com/wakuworks/jscs-preset-npm",
+  "files": [
+    "LICENSE",
+    "jscs.json"
+  ],
+  "keywords": [
+    "jscs",
+    "jscs-preset"
+  ]
+}
