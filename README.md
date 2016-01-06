@@ -4,7 +4,7 @@ Sharable jscs config for npm projects
 
 ## Usage
 
-``json
+```json
 // .jscsrc
 {
   "preset": "npm"
