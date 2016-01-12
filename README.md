@@ -1,6 +1,6 @@
 # jscs-preset-npm
 
-Sharable jscs config for npm projects
+JSCS preset for NPM projects
 
 ## Usage
 
